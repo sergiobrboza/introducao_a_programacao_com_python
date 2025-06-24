@@ -1,0 +1,1 @@
+'''Escreva um programa que leia números inteiros do teclado. O programa deve exibir o maior e o menor número digitado. A leitura deve ser encerrada quando o usuário digitar o número zero.'''
